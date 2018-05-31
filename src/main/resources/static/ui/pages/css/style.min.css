@@ -1199,7 +1199,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .post-tags a::before {
-    content: '# '
+    /*content: '# '*/
+    content: ''
 }
 
 .post-content .post-tags a:hover {
